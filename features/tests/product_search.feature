@@ -3,8 +3,8 @@ Feature: Test Scenarios for Search functionality
 
   Scenario: User can search for a product
     Given Open Google page
-    When Input Dresses into search field
+    When Input Rings into search field
     And Click on search icon
-    Then Product results for Dresses are shown
+    Then Product results for Rings are shown
 
 
